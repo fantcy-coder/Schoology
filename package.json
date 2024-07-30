@@ -1,0 +1,11 @@
+{
+  "name": "google_girl_hackathon_team_nova-main",
+  "version": "1.0.0",
+  "description": "This project has been made by Team Nova for Google Girl Hackathon 2022.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
